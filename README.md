@@ -1,2 +1,2 @@
 # html-portfolio
-It is the first one and very simple :)
+This is the first one and very simple :)
